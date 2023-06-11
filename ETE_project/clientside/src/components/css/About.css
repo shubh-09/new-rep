@@ -1,0 +1,25 @@
+/* AboutPage.css */
+
+.about-page {
+    /* background-color: #a59e9e; */
+    /* background: linear-gradient(to right, #050c31,#1b34af, #7b40b6); */
+    background: linear-gradient(to right, #2583c2, #a2cde9);
+  height: 525px;
+    padding: 20px;
+    color: antiquewhite;
+  }
+  
+  .about-page h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .about-page p {
+    color: aliceblue;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
